@@ -55,5 +55,6 @@ This project implements a **digital electronic safe lock system**, designed usin
 /Digital_Safe_Lock  
 │── /docs               # Documentation and diagrams  
 │── /src                # VHDL source code  
-│── /simulation         # Test and simulation files  
-
+│── Projeto..zip        # project compress
+Documentation           # Project Documentation
+READM.me
